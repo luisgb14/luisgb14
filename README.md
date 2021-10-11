@@ -8,6 +8,6 @@ My name is Luis Benavides, I'm from Venezuela, living in Colombia since 2017 and
 ## Skills
 
 * Using Linux 💻  👍 in Production since 2007
-* AWS, Terraform, Docker, Kubernetes Shell Scripting 
+* AWS, Terraform, Docker, Kubernetes, Shell Scripting 
 * Critical thinking, decision-making and problem solving skills
 
