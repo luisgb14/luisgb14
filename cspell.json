@@ -1,0 +1,30 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "Benavides",
+    "tpng",
+    "carnow",
+    "nowinc",
+    "cneng",
+    "skillicons",
+    "devicon",
+    "devicons",
+    "azuredevops",
+    "githubactions",
+    "pulumi",
+    "bottlerocket",
+    "cicd",
+    "redhat",
+    "postgres",
+    "postgresql",
+    "mongodb",
+    "jsdelivr",
+    "luisgb",
+    "technicalskills",
+    "kubectl",
+    "argocd",
+    "simpleicons"
+  ],
+  "ignorePaths": [".git"]
+}
